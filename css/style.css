@@ -10,6 +10,7 @@ body{font-family: 'Noto Sans KR', sans-serif;}
     display: flex;justify-content: space-between;align-items: center;width: 100%;margin: 0 auto;;height: 132px;
     position: absolute;min-width: 1280px;
 }
+.header.sticky{position: fixed;background-color: #f0f;}
 .header h1{z-index: 2;padding: 10px 0 0 70px;}
 .nav_wrap{z-index: 2;padding: 52px 0;}
 .navbar{width: 1000px;margin:auto;}
